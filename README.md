@@ -124,6 +124,8 @@ Can be deployed on platforms like Render, Railway, or Heroku.
 
 Use MongoDB Atlas for cloud database hosting.
 
+### 🚀 Live Demo
+The API is live here: [https://online-restaurant-backend-api.onrender.com/](https://online-restaurant-backend-api.onrender.com/)
 
 Author
 
